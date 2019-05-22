@@ -36,7 +36,7 @@ public class EquipeSpringApplication {
 //		 log.error("Message de log (error)");
 //		 log.fatal("Message de log (fatal)");
 		 
-		 System.out.println("test");
+		 System.out.println("test3");
 	}
 
 }
